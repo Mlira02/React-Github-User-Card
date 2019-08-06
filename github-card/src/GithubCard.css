@@ -1,0 +1,23 @@
+.outer {
+    margin: 0 auto;
+    border: 1px solid grey;
+    border-radius: 5px;
+    max-width: 75%;
+}
+
+.user-logo {
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+.username-container {
+    display: flex;
+    align-items: center;
+}
+
+.Follower-container {
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}
